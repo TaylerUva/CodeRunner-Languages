@@ -17,7 +17,7 @@
 		<string>awk</string>
 	</array>
 	<key>Grammar</key>
-	<string>source.ada</string>
+	<string>source.python</string>
 	<key>LanguageBundleVersion</key>
 	<integer>1</integer>
 	<key>Name</key>
@@ -48,6 +48,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>31532EAA-6B30-4DAF-853B-CE01B621413C</string>
+	<string>8C67773E-03F5-4E59-841D-4756DB602DE0</string>
 </dict>
 </plist>
