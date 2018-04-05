@@ -7,4 +7,4 @@ These are languages that do not come pre-installed in [CodeRunner](https://coder
 - [Prolog](https://code.google.com/archive/p/binprolog/)
 - [NS2 - Network Simulator 2](http://myns2work.blogspot.in/2013/08/installing-ns-235-on-mountain-lion-and.html)
 - Awk
-- Plain/Rich text format
+- Text - Plain/Rich text format, Tr (trace) fromat

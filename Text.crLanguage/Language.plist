@@ -16,6 +16,7 @@
 	<array>
 		<string>txt</string>
 		<string>rtf</string>
+		<string>tr</string>
 	</array>
 	<key>Grammar</key>
 	<string>none</string>
@@ -61,6 +62,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>2637E99D-7108-4967-9F70-D263E9D00A26</string>
+	<string>FA4A4CCB-0ED3-4CF1-85E0-EFCF821B1AA8</string>
 </dict>
 </plist>
