@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CompilerFlags</key>
+	<string></string>
+	<key>CompilerScript</key>
+	<false/>
+	<key>ConsoleType</key>
+	<integer>1</integer>
+	<key>CustomTabMode</key>
+	<false/>
+	<key>Enabled</key>
+	<true/>
+	<key>FileExtensions</key>
+	<array>
+		<string>txt</string>
+		<string>rtf</string>
+	</array>
+	<key>Grammar</key>
+	<string>none</string>
+	<key>LanguageBundleVersion</key>
+	<integer>1</integer>
+	<key>LiveConsole</key>
+	<true/>
+	<key>Name</key>
+	<string>Text</string>
+	<key>OutputEncoding</key>
+	<integer>0</integer>
+	<key>RunCommand</key>
+	<string></string>
+	<key>SoftTabs</key>
+	<false/>
+	<key>TabWidth</key>
+	<integer>4</integer>
+	<key>Templates</key>
+	<array>
+		<dict>
+			<key>Default</key>
+			<integer>1</integer>
+			<key>Extension</key>
+			<string>txt</string>
+			<key>Name</key>
+			<string>Plain text</string>
+			<key>NameOnCreation</key>
+			<false/>
+			<key>Template</key>
+			<string>&lt;##&gt;</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<integer>0</integer>
+			<key>Extension</key>
+			<string>rtf</string>
+			<key>Name</key>
+			<string>Rich text</string>
+			<key>NameOnCreation</key>
+			<false/>
+			<key>Template</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>2637E99D-7108-4967-9F70-D263E9D00A26</string>
+</dict>
+</plist>

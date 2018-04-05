@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CompilerFlags</key>
+	<string></string>
+	<key>CompilerScript</key>
+	<false/>
+	<key>ConsoleType</key>
+	<integer>0</integer>
+	<key>CustomTabMode</key>
+	<false/>
+	<key>Enabled</key>
+	<true/>
+	<key>FileExtensions</key>
+	<array>
+		<string>pl</string>
+	</array>
+	<key>Grammar</key>
+	<string>source.prolog</string>
+	<key>LanguageBundleVersion</key>
+	<integer>1</integer>
+	<key>LiveConsole</key>
+	<false/>
+	<key>Name</key>
+	<string>Prolog</string>
+	<key>OutputEncoding</key>
+	<integer>0</integer>
+	<key>RunCommand</key>
+	<string>bp $filename</string>
+	<key>SoftTabs</key>
+	<false/>
+	<key>TabWidth</key>
+	<integer>4</integer>
+	<key>Templates</key>
+	<array>
+		<dict>
+			<key>Default</key>
+			<integer>1</integer>
+			<key>Extension</key>
+			<string>pl</string>
+			<key>Name</key>
+			<string>Prolog File</string>
+			<key>NameOnCreation</key>
+			<false/>
+			<key>Template</key>
+			<string>&lt;##&gt;
+% End of File %</string>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>D4F566C3-5F9E-436F-AA80-32F69F709654</string>
+</dict>
+</plist>
