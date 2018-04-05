@@ -20,6 +20,3 @@
 #
 # Output (stderr):		Anything outputted here will be displayed in
 #						the CodeRunner console
-
-name=`echo "$CR_FILENAME" | sed 's/\(.*\)\..*/\1/'`
-	echo "$PWD/$name.tr"

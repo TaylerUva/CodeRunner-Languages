@@ -5,7 +5,7 @@
 	<key>CompilerFlags</key>
 	<string></string>
 	<key>CompilerScript</key>
-	<true/>
+	<false/>
 	<key>ConsoleType</key>
 	<integer>0</integer>
 	<key>CustomTabMode</key>
@@ -17,7 +17,7 @@
 		<string>tcl</string>
 	</array>
 	<key>Grammar</key>
-	<string>source.tcl</string>
+	<string>source.shell</string>
 	<key>LanguageBundleVersion</key>
 	<integer>1</integer>
 	<key>Name</key>
@@ -25,7 +25,7 @@
 	<key>OutputEncoding</key>
 	<integer>0</integer>
 	<key>RunCommand</key>
-	<string>ns $filename; cat $compiler</string>
+	<string>ns $filename; cat *.tr</string>
 	<key>SoftTabs</key>
 	<false/>
 	<key>TabWidth</key>
@@ -33,6 +33,6 @@
 	<key>Templates</key>
 	<array/>
 	<key>uuid</key>
-	<string>6F547FD0-D3BD-46FC-BDC4-7234FE746472</string>
+	<string>73A98FD0-50B1-4D13-9F6D-64653BCD4B1E</string>
 </dict>
 </plist>
