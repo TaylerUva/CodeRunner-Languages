@@ -6,5 +6,6 @@ These are languages that do not come pre-installed in [CodeRunner](https://coder
 - [Lisp](https://sourceforge.net/projects/clisp/)
 - [Prolog](https://code.google.com/archive/p/binprolog/)
 - [NS2 - Network Simulator 2](http://myns2work.blogspot.in/2013/08/installing-ns-235-on-mountain-lion-and.html)
+  - [Easy Path Installer Script](https://gist.github.com/TaylerUva/c36e0fdd2e51fe64fe4e3f20e6feed85)
 - Awk
 - Text - Plain/Rich text format, Tr (trace) fromat
