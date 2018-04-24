@@ -4,6 +4,7 @@ These are languages that do not come pre-installed in [CodeRunner](https://coder
 
 ## Languages
 - [Lisp](http://brewformulas.org/Clisp)
+  - Install using Homebrew(https://brew.sh)
 - [Prolog](https://code.google.com/archive/p/binprolog/)
   - Install file bp (in folder bin from zip) into /usr/local/bin
 - [NS2 - Network Simulator 2](http://myns2work.blogspot.in/2013/08/installing-ns-235-on-mountain-lion-and.html)
